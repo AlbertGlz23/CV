@@ -73,3 +73,7 @@ Por otro lado, la presentación profesional se relaciona con la articulación de
 ## IX. Formato de CV
 
 [Formato de CV de Ángel González]()
+
+## X. Referencias
+
+[Referencias de la investigación]()
