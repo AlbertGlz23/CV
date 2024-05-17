@@ -12,6 +12,10 @@ Puchol, L. (2004). *El libro del curriculum Vitae, tercera edición*, recogido d
 
 ## II. Presentación personal y profesional
 
+Al elaborar un currículum vitae, la presentación personal se refiere a la forma en que una persona representa sus características personales, como profesionalismo, atención al detalle y marca personal. Elementos como el diseño del CV, la elección de fuentes y la estética general contribuyen a esta presentación personal, ya que reflejan la personalidad y ética laboral del solicitante.
+
+Por otro lado, la presentación profesional se relaciona con la articulación de las cualificaciones, habilidades y experiencias profesionales de una persona. Implica resumir claramente los logros en la carrera y adaptar el contenido a la descripción del puesto, asegurándose de transmitir información profesional relevante al público objetivo, generalmente los gerentes de contratación o reclutadores [(Perron, 2022)](https://uxdesign.cc/the-design-of-high-stakes-career-materials-3688b6503f5). La presentación profesional se basa en un énfasis estratégico en la relevancia e impacto de las contribuciones profesionales, dirigido directamente a las necesidades e intereses del público [(Email Etiquette for Students, 2018)](https://owl.purdue.edu/owl/general_writing/academic_writing/email_etiquette_for_students.html).
+
 [A. Importancia de una presentación adecuada en el CV]()
 
 [B. Cómo estructurar y organizar la información personal y profesional]()
