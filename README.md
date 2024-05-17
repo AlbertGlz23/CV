@@ -26,27 +26,27 @@ Por otro lado, la presentación profesional se relaciona con la articulación de
 
 [A. Destacar las habilidades técnicas clave en el CV](https://github.com/AlbertGlz23/CV/blob/main/Resumen%20de%20habilidades%20t%C3%A9cnicas/Destacar%20las%20habilidades%20t%C3%A9cnicas%20clave%20en%20el%20CV.md)
 
-[B. La importancia de adaptar las habilidades técnicas al puesto específico]()
+[B. La importancia de adaptar las habilidades técnicas al puesto específico](https://github.com/AlbertGlz23/CV/blob/main/Resumen%20de%20habilidades%20t%C3%A9cnicas/La%20importancia%20de%20adaptar%20las%20habilidades%20t%C3%A9cnicas%20al%20puesto%20espec%C3%ADfico.md)
 
-[C. Cómo demostrar las habilidades técnicas en el CV]()
+[C. Cómo demostrar las habilidades técnicas en el CV](https://github.com/AlbertGlz23/CV/blob/main/Resumen%20de%20habilidades%20t%C3%A9cnicas/C%C3%B3mo%20demostrar%20las%20habilidades%20t%C3%A9cnicas%20en%20el%20CV.md)
 
 ## IV. Experiencia laboral relevante
 
 
-[A. Cómo resaltar la experiencia laboral en el CV]()
+[A. Cómo resaltar la experiencia laboral en el CV](https://github.com/AlbertGlz23/CV/blob/main/Experiencia%20laboral%20relevante/C%C3%B3mo%20resaltar%20la%20experiencia%20laboral%20en%20el%20CV.md)
 
-[B. La importancia de describir proyectos y responsabilidades relevantes]()
+[B. La importancia de describir proyectos y responsabilidades relevantes](https://github.com/AlbertGlz23/CV/blob/main/Experiencia%20laboral%20relevante/La%20importancia%20de%20describir%20proyectos%20y%20responsabilidades%20relevantes.md)
 
-[C. La inclusión de logros y resultados en la experiencia laboral]()
+[C. La inclusión de logros y resultados en la experiencia laboral](https://github.com/AlbertGlz23/CV/blob/main/Experiencia%20laboral%20relevante/La%20inclusi%C3%B3n%20de%20logros%20y%20resultados%20en%20la%20experiencia%20laboral.md)
 
 ## V. Educación y certificaciones
 
 
-[A. Destacar la educación académica en el CV]()
+[A. Destacar la educación académica en el CV](https://github.com/AlbertGlz23/CV/blob/main/Educaci%C3%B3n%20y%20certificaciones/Destacar%20la%20educaci%C3%B3n%20acad%C3%A9mica%20en%20el%20CV.md)
 
-[B. La relevancia de las certificaciones en el campo de la ingeniería de software]()
+[B. La relevancia de las certificaciones en el campo de la ingeniería de software](https://github.com/AlbertGlz23/CV/blob/main/Educaci%C3%B3n%20y%20certificaciones/La%20relevancia%20de%20las%20certificaciones%20en%20el%20campo%20de%20la%20ingenier%C3%ADa%20de%20software.md)
 
-[C. Cómo mencionar cursos y certificaciones relevantes en el CV]()
+[C. Cómo mencionar cursos y certificaciones relevantes en el CV](https://github.com/AlbertGlz23/CV/blob/main/Educaci%C3%B3n%20y%20certificaciones/C%C3%B3mo%20mencionar%20cursos%20y%20certificaciones%20relevantes%20en%20el%20CV.md)
 
 ## VI. Proyectos y contribuciones destacadas
 
