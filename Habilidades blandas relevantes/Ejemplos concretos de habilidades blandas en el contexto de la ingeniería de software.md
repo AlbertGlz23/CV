@@ -6,6 +6,6 @@ Además, el panorama técnico en constante evolución exige que los ingenieros d
 
 Al elaborar un currículum vitae, los ingenieros de software deben incluir estas habilidades blandas para mostrar su perfil profesional integral y su disposición para prosperar en entornos de trabajo cooperativos y multidisciplinarios. Incluir evidencia de estas habilidades, a través de descripciones de proyectos o testimonios, por ejemplo, puede mejorar un currículum vitae al demostrar un conjunto completo de atributos que son cada vez más valorados en la industria tecnológica [(Beck et al., 2009)](https://dl.acm.org/doi/10.1145/1508865.1508939).
 
-**Stal y Paliwoda-Pękosz. (2018). *Fostering development of soft skills in ICT curricula: a case of a transition economy*. recopilado de: https://github.com/AlbertGlz23/CV/edit/main/Habilidades%20blandas%20relevantes/Ejemplos%20concretos%20de%20habilidades%20blandas%20en%20el%20contexto%20de%20la%20ingenier%C3%ADa%20de%20software.md**
+**Stal y Paliwoda-Pękosz. (2018). *Fostering development of soft skills in ICT curricula: a case of a transition economy*. recopilado de: https://www.tandfonline.com/doi/full/10.1080/02681102.2018.1454879**
 
 **Beck, J. (2009). *Best practices in software engineering project class management*. recopilado de: https://dl.acm.org/doi/10.1145/1508865.1508939**
