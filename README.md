@@ -76,7 +76,7 @@ Incluir habilidades blandas relevantes en tu currículum vitae como ingeniero de
 
 ## IX. Formato de CV
 
-[Formato de CV de Ángel González]()
+[Formato de CV de Ángel González](https://github.com/AlbertGlz23/CV/blob/main/Formato%20CV/Formato_CV_Gonz%C3%A1lez-%C3%81ngel.pdf)
 
 ## X. Referencias
 
