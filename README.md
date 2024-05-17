@@ -44,10 +44,6 @@ La experiencia laboral relevante es crucial en el currículum vitae de un ingeni
 
 [A. Cómo resaltar la experiencia laboral en el CV](https://github.com/AlbertGlz23/CV/blob/main/Experiencia%20laboral%20relevante/C%C3%B3mo%20resaltar%20la%20experiencia%20laboral%20en%20el%20CV.md)
 
-[B. La importancia de describir proyectos y responsabilidades relevantes](https://github.com/AlbertGlz23/CV/blob/main/Experiencia%20laboral%20relevante/La%20importancia%20de%20describir%20proyectos%20y%20responsabilidades%20relevantes.md)
-
-[C. La inclusión de logros y resultados en la experiencia laboral](https://github.com/AlbertGlz23/CV/blob/main/Experiencia%20laboral%20relevante/La%20inclusi%C3%B3n%20de%20logros%20y%20resultados%20en%20la%20experiencia%20laboral.md)
-
 ## V. Educación y certificaciones
 
 La educación y las certificaciones son componentes esenciales en el currículum vitae de un ingeniero de software. Destacar tu formación académica relevante es fundamental para mostrar tu base sólida en los principios y fundamentos de la ingeniería de software. Además, mencionar las certificaciones en el campo demuestra tu compromiso con el aprendizaje continuo y tu dominio de habilidades específicas. Es importante resaltar las certificaciones reconocidas en la industria, ya que esto valida tu experiencia y conocimientos técnicos. Al destacar tu educación y certificaciones de manera efectiva, podrás demostrar tu capacidad para abordar desafíos técnicos y tu nivel de especialización en el campo de la ingeniería de software. Esto ayudará a los reclutadores a evaluar tu idoneidad para el puesto y resaltar tu preparación académica y profesional.
@@ -55,8 +51,6 @@ La educación y las certificaciones son componentes esenciales en el currículum
 [A. Destacar la educación académica en el CV](https://github.com/AlbertGlz23/CV/blob/main/Educaci%C3%B3n%20y%20certificaciones/Destacar%20la%20educaci%C3%B3n%20acad%C3%A9mica%20en%20el%20CV.md)
 
 [B. La relevancia de las certificaciones en el campo de la ingeniería de software](https://github.com/AlbertGlz23/CV/blob/main/Educaci%C3%B3n%20y%20certificaciones/La%20relevancia%20de%20las%20certificaciones%20en%20el%20campo%20de%20la%20ingenier%C3%ADa%20de%20software.md)
-
-[C. Cómo mencionar cursos y certificaciones relevantes en el CV](https://github.com/AlbertGlz23/CV/blob/main/Educaci%C3%B3n%20y%20certificaciones/C%C3%B3mo%20mencionar%20cursos%20y%20certificaciones%20relevantes%20en%20el%20CV.md)
 
 ## VI. Proyectos y contribuciones destacadas
 
@@ -71,8 +65,6 @@ Destacar los proyectos y contribuciones relevantes es esencial en el currículum
 ## VII. Habilidades blandas relevantes
 
 Incluir habilidades blandas relevantes en tu currículum vitae como ingeniero de software es igualmente importante. Además de tus habilidades técnicas, es fundamental resaltar tus habilidades blandas, ya que demuestran tu capacidad para trabajar en equipo, comunicarte eficientemente y resolver problemas de manera efectiva.
-
-[A. La importancia de las habilidades blandas en la ingeniería de software](https://github.com/AlbertGlz23/CV/blob/main/Habilidades%20blandas%20relevantes/La%20importancia%20de%20las%20habilidades%20blandas%20en%20la%20ingenier%C3%ADa%20de%20software.md)
 
 [B. Cómo destacar habilidades de comunicación, trabajo en equipo, y resolución de problemas en el CV](https://github.com/AlbertGlz23/CV/blob/main/Proyectos%20y%20contribuciones%20destacadas/C%C3%B3mo%20resaltar%20proyectos%20relevantes%20en%20el%20CV.md)
 
