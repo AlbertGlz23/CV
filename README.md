@@ -24,7 +24,7 @@ Por otro lado, la presentación profesional se relaciona con la articulación de
 
 ## III. Resumen de habilidades técnicas
 
-[A. Destacar las habilidades técnicas clave en el CV]()
+[A. Destacar las habilidades técnicas clave en el CV](https://github.com/AlbertGlz23/CV/blob/main/Resumen%20de%20habilidades%20t%C3%A9cnicas/Destacar%20las%20habilidades%20t%C3%A9cnicas%20clave%20en%20el%20CV.md)
 
 [B. La importancia de adaptar las habilidades técnicas al puesto específico]()
 
