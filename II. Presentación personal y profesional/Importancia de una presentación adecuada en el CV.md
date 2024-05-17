@@ -8,6 +8,6 @@ En segundo lugar, el currículum vitae de un ingeniero de software suele ser el 
 
 Además, un currículum vitae presentado correctamente puede resaltar el cumplimiento por parte del ingeniero de software de los principios de buenas prácticas de desarrollo de software. Por ejemplo, así como los ingenieros utilizan sistemas de control de versiones para gestionar su código, la estructura y actualización meticulosa de un currículum vitae puede indicar su enfoque sistemático para la gestión de tareas y la organización [(Hastings et al., 2014).](https://academic.oup.com/gigascience/article/3/1/2047-217X-3-31/2682967)
 
-Li, V. O. K. (1999). *Hints on writing technical papers and making presentations* recopilado de: https://ieeexplore.ieee.org/document/762947
+**Li, V. O. K. (1999). *Hints on writing technical papers and making presentations* recopilado de: https://ieeexplore.ieee.org/document/762947**
 
-Hastings, J. (2014)ñ *Ten recommendations for software engineering in research* recopilado de: https://academic.oup.com/gigascience/article/3/1/2047-217X-3-31/2682967
+**Hastings, J. (2014) *Ten recommendations for software engineering in research* recopilado de: https://academic.oup.com/gigascience/article/3/1/2047-217X-3-31/2682967**
