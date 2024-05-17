@@ -1,4 +1,4 @@
-
+#Destacar la educación académica en el CV
 
 Destacar la educación académica en un currículum vitae para ingenieros de software implica mostrar estratégicamente no solo las competencias técnicas adquiridas, sino también cualquier experiencia relevante en proyectos y habilidades blandas que se alineen con las demandas de la industria. Aquí algunos ejemplos sobre cómo mejorar la sección académica del CV:
 
