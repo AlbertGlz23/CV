@@ -76,4 +76,4 @@ Por otro lado, la presentación profesional se relaciona con la articulación de
 
 ## X. Referencias
 
-[Referencias de la investigación]()
+[Referencias de la investigación](https://github.com/AlbertGlz23/CV/blob/main/Referencias/referencias.md)
