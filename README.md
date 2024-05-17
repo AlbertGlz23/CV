@@ -51,24 +51,24 @@ Por otro lado, la presentación profesional se relaciona con la articulación de
 ## VI. Proyectos y contribuciones destacadas
 
 
-[A. Cómo resaltar proyectos relevantes en el CV]()
+[A. Cómo resaltar proyectos relevantes en el CV](https://github.com/AlbertGlz23/CV/blob/main/Proyectos%20y%20contribuciones%20destacadas/C%C3%B3mo%20resaltar%20proyectos%20relevantes%20en%20el%20CV.md)
 
-[B. La importancia de mencionar contribuciones a proyectos de código abierto]()
+[B. La importancia de mencionar contribuciones a proyectos de código abierto](https://github.com/AlbertGlz23/CV/blob/main/Proyectos%20y%20contribuciones%20destacadas/La%20importancia%20de%20mencionar%20contribuciones%20a%20proyectos%20de%20c%C3%B3digo%20abierto.md)
 
-[C. Incluir enlaces a repositorios de código o sitios web personales]()
+[C. Incluir enlaces a repositorios de código o sitios web personales](https://github.com/AlbertGlz23/CV/blob/main/Proyectos%20y%20contribuciones%20destacadas/Incluir%20enlaces%20a%20repositorios%20de%20c%C3%B3digo%20o%20sitios%20web%20personales)
 
 ## VII. Habilidades blandas relevantes
 
 
-[A. La importancia de las habilidades blandas en la ingeniería de software]()
+[A. La importancia de las habilidades blandas en la ingeniería de software](https://github.com/AlbertGlz23/CV/blob/main/Habilidades%20blandas%20relevantes/La%20importancia%20de%20las%20habilidades%20blandas%20en%20la%20ingenier%C3%ADa%20de%20software.md)
 
-[B. Cómo destacar habilidades de comunicación, trabajo en equipo, y resolución de problemas en el CV]()
+[B. Cómo destacar habilidades de comunicación, trabajo en equipo, y resolución de problemas en el CV](https://github.com/AlbertGlz23/CV/blob/main/Proyectos%20y%20contribuciones%20destacadas/C%C3%B3mo%20resaltar%20proyectos%20relevantes%20en%20el%20CV.md)
 
-[C. Ejemplos concretos de habilidades blandas en el contexto de la ingeniería de software[()
+[C. Ejemplos concretos de habilidades blandas en el contexto de la ingeniería de software](https://github.com/AlbertGlz23/CV/blob/main/Proyectos%20y%20contribuciones%20destacadas/Incluir%20enlaces%20a%20repositorios%20de%20c%C3%B3digo%20o%20sitios%20web%20personales)
 
 ## VIII. Conclusiones
 
-[A. Resumen de la importancia del CV para ingenieros de software]()
+[A. Resumen de la importancia del CV para ingenieros de software](https://github.com/AlbertGlz23/CV/blob/main/Conclusiones/Resumen%20de%20la%20importancia%20del%20CV%20para%20ingenieros%20de%20software.md)
 
 ## IX. Formato de CV
 
