@@ -15,3 +15,5 @@ Por supuesto, no podemos olvidar mencionar nuestras habilidades técnicas. En es
 Pero el CV no es solo una lista aburrida de títulos y palabras técnicas. También es una oportunidad para mostrar nuestra personalidad y habilidades de comunicación. Una redacción clara y concisa demuestra que nos sabemos expresar y transmitir información de manera efectiva. Además, podemos añadir enlaces a nuestros proyectos destacados o a nuestro portafolio en línea, para que los reclutadores puedan ver nuestro trabajo en acción.
 
 En conclusión, el CV es un arma poderosa en manos de un ingeniero de software. Es nuestra oportunidad de destacar y captar la atención de los reclutadores. Pero no te preocupes si aún no tienes un currículum espectacular, todos comenzamos desde cero. Tómate el tiempo necesario para pulirlo, resaltar tus fortalezas y mostrar tu potencial como ingeniero de software de alto nivel. Recuerda, el CV es tu boleto para entrar al mundo laboral, así que ¡hazlo brillar!
+
+# Atte. Ángel González
