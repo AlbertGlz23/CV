@@ -22,6 +22,15 @@ Por otro lado, la presentación profesional se relaciona con la articulación de
 
 ## III. Resumen de habilidades técnicas
 
+En el contexto de la ingeniería de software, las habilidades técnicas son el fundamento de las cualificaciones de un ingeniero de software y son de suma importancia al redactar un currículum vitae. Estas habilidades técnicas demuestran la capacidad de un candidato para llevar a cabo las tareas principales requeridas en roles de ingeniería de software, como codificación, diseño de sistemas, solución de problemas y optimización del rendimiento. Incluir una lista detallada de habilidades técnicas en un currículum vitae es crucial por varias razones:
+
+1. Relevancia para el Puesto: Un currículum vitae debe adaptarse a la descripción del trabajo, resaltando las habilidades técnicas más relevantes para el puesto al que el candidato está aplicando. Esta especificidad ayuda a los gerentes de contratación a evaluar rápidamente la idoneidad del candidato para el puesto [(Allodi et al., 2018)](https://dl.acm.org/doi/10.1145/3176258.3176340).
+
+1. Experiencia y Expertise: Las habilidades técnicas detalladas en un currículum vitae brindan a un empleador una imagen clara del nivel de experiencia de un candidato en varios aspectos de la ingeniería de software. Esto puede incluir competencia en lenguajes de programación, uso de herramientas de desarrollo de software y experiencia con diferentes metodologías de desarrollo de software.
+
+1. Credibilidad a través de Certificaciones y Proyectos: Incluir certificaciones, cursos y experiencia en proyectos relacionados con habilidades técnicas específicas puede servir como evidencia tangible de las habilidades y competencias de un candidato [(Allodi et al., 2018)](https://dl.acm.org/doi/10.1145/3176258.3176340).
+1. Compatibilidad con ATS: Muchos empleadores utilizan Sistemas de Seguimiento de Candidatos (Applicant Tracking Systems) para filtrar a los candidatos según palabras clave. Tener las habilidades técnicas adecuadas enumeradas puede aumentar la probabilidad de que el currículum vitae pase exitosamente por estos sistemas.
+
 [A. Destacar las habilidades técnicas clave en el CV](https://github.com/AlbertGlz23/CV/blob/main/Resumen%20de%20habilidades%20t%C3%A9cnicas/Destacar%20las%20habilidades%20t%C3%A9cnicas%20clave%20en%20el%20CV.md)
 
 [B. La importancia de adaptar las habilidades técnicas al puesto específico](https://github.com/AlbertGlz23/CV/blob/main/Resumen%20de%20habilidades%20t%C3%A9cnicas/La%20importancia%20de%20adaptar%20las%20habilidades%20t%C3%A9cnicas%20al%20puesto%20espec%C3%ADfico.md)
