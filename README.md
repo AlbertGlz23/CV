@@ -68,7 +68,7 @@ Incluir habilidades blandas relevantes en tu currículum vitae como ingeniero de
 
 [A. La importancia de las habilidades blandas en la ingeniería de software](https://github.com/AlbertGlz23/CV/blob/main/Habilidades%20blandas%20relevantes/La%20importancia%20de%20las%20habilidades%20blandas%20en%20la%20ingenier%C3%ADa%20de%20software.md)
 
-[B. Ejemplos concretos de habilidades blandas en el contexto de la ingeniería de software](https://github.com/AlbertGlz23/CV/blob/main/Proyectos%20y%20contribuciones%20destacadas/Incluir%20enlaces%20a%20repositorios%20de%20c%C3%B3digo%20o%20sitios%20web%20personales)
+[B. Ejemplos concretos de habilidades blandas en el contexto de la ingeniería de software](https://github.com/AlbertGlz23/CV/blob/main/Habilidades%20blandas%20relevantes/Ejemplos%20concretos%20de%20habilidades%20blandas%20en%20el%20contexto%20de%20la%20ingenier%C3%ADa%20de%20software.md)
 
 ## VIII. Conclusiones
 
