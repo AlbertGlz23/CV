@@ -1,4 +1,4 @@
-
+# La importancia de adaptar las habilidades técnicas al puesto específico
 
 En el competitivo mercado laboral actual, un currículum vitae (CV) bien elaborado es crucial para destacar entre la multitud de candidatos. Para un ingeniero de software, esto significa ir más allá de simplemente enumerar habilidades técnicas y adaptarlas al puesto específico al que se aspira. Este enfoque estratégico no solo aumenta las posibilidades de ser seleccionado para una entrevista, sino que también demuestra un entendimiento profundo de las necesidades del empleador y la capacidad de aplicar las habilidades de manera efectiva.
 
