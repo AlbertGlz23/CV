@@ -60,7 +60,7 @@ Destacar los proyectos y contribuciones relevantes es esencial en el currículum
 
 [B. La importancia de mencionar contribuciones a proyectos de código abierto](https://github.com/AlbertGlz23/CV/blob/main/Proyectos%20y%20contribuciones%20destacadas/La%20importancia%20de%20mencionar%20contribuciones%20a%20proyectos%20de%20c%C3%B3digo%20abierto.md)
 
-[C. Incluir enlaces a repositorios de código o sitios web personales](https://github.com/AlbertGlz23/CV/blob/main/Proyectos%20y%20contribuciones%20destacadas/Incluir%20enlaces%20a%20repositorios%20de%20c%C3%B3digo%20o%20sitios%20web%20personales)
+[C. Incluir enlaces a repositorios de código o sitios web personales](https://github.com/AlbertGlz23/CV/blob/main/Proyectos%20y%20contribuciones%20destacadas/Incluir%20enlaces%20a%20repositorios%20de%20c%C3%B3digo%20o%20sitios%20web%20personales.md)
 
 ## VII. Habilidades blandas relevantes
 
