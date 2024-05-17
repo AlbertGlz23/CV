@@ -1,4 +1,4 @@
-
+# Ejemplos concretos de habilidades blandas en el contexto de la ingeniería de software
 
 En el ámbito de la ingeniería de software, diversas habilidades blandas son esenciales para un desempeño efectivo y la colaboración dentro de la industria. La integración de habilidades blandas en los planes de estudio de Tecnologías de la Información y Comunicación refleja la importancia de estas competencias para los futuros profesionales [(Stal y Paliwoda-Pękosz, 2018)](https://www.tandfonline.com/doi/full/10.1080/02681102.2018.1454879). Entre ellas, se destacan la asistencia activa, el trabajo sistemático, la autoevaluación y la revisión por pares como habilidades blandas clave para los profesionales de las TIC, incluyendo a los ingenieros de software. Estas habilidades contribuyen significativamente al éxito de una organización y mejoran la posición de los profesionales en el mercado laboral [(Stal y Paliwoda-Pękosz, 2018)](https://www.tandfonline.com/doi/full/10.1080/02681102.2018.1454879).
 
