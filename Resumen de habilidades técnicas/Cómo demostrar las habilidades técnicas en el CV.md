@@ -1,4 +1,4 @@
-
+# Cómo demostrar las habilidades técnicas en el CV
 
 En el mercado laboral competitivo actual, es crucial mostrar de manera efectiva tus habilidades técnicas en tu currículum vitae, especialmente para los ingenieros de software. Aquí tienes una guía completa sobre cómo los ingenieros de software pueden demostrar su destreza técnica en su currículum vitae para destacar entre la multitud.
 
