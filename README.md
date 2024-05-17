@@ -24,7 +24,7 @@ Por otro lado, la presentación profesional se relaciona con la articulación de
 
 ## III. Resumen de habilidades técnicas
 
-[A. Destacar las habilidades técnicas clave en el CV]()
+[A. Destacar las habilidades técnicas clave en el CV](Resumen de la importancia del CV para ingenieros de software)
 
 [B. La importancia de adaptar las habilidades técnicas al puesto específico]()
 
