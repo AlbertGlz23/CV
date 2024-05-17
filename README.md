@@ -10,4 +10,11 @@ Puchol, L. (2004). *El libro del curriculum Vitae, tercera edición*, recogido d
 [A. Contexto de la importancia del CV en el ámbito de la ingeniería de software](https://github.com/AlbertGlz23/CV/blob/main/Introducci%C3%B3n/Contexto%20de%20la%20importancia%20del%20CV%20en%20el%20%C3%A1mbito%20de%20la%20ingenier%C3%ADa%20de%20software.md)
 
 
+## II. Presentación personal y profesional
+
+[A. Importancia de una presentación adecuada en el CV]()
+
+[B. Cómo estructurar y organizar la información personal y profesional]()
+
+[C. La relevancia de la redacción y el formato del CV]()
 
