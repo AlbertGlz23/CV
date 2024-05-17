@@ -18,7 +18,7 @@ Por otro lado, la presentación profesional se relaciona con la articulación de
 
 [A. Importancia de una presentación adecuada en el CV](https://github.com/AlbertGlz23/CV/blob/main/II.%20Presentaci%C3%B3n%20personal%20y%20profesional/Importancia%20de%20una%20presentaci%C3%B3n%20adecuada%20en%20el%20CV.md)
 
-[B. Cómo estructurar y organizar la información personal y profesional]()
+[B. Cómo estructurar y organizar la información personal y profesional](https://github.com/AlbertGlz23/CV/blob/main/II.%20Presentaci%C3%B3n%20personal%20y%20profesional/C%C3%B3mo%20estructurar%20y%20organizar%20la%20informaci%C3%B3n%20personal%20y%20profesional.md)
 
 [C. La relevancia de la redacción y el formato del CV]()
 
