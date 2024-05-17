@@ -22,3 +22,54 @@ Por otro lado, la presentación profesional se relaciona con la articulación de
 
 [C. La relevancia de la redacción y el formato del CV](https://github.com/AlbertGlz23/CV/blob/main/II.%20Presentaci%C3%B3n%20personal%20y%20profesional/La%20relevancia%20de%20la%20redacci%C3%B3n%20y%20el%20formato%20del%20CV.md)
 
+## III. Resumen de habilidades técnicas
+
+[A. Destacar las habilidades técnicas clave en el CV]()
+
+[B. La importancia de adaptar las habilidades técnicas al puesto específico]()
+
+[C. Cómo demostrar las habilidades técnicas en el CV]()
+
+## IV. Experiencia laboral relevante
+
+
+[A. Cómo resaltar la experiencia laboral en el CV]()
+
+[B. La importancia de describir proyectos y responsabilidades relevantes]()
+
+[C. La inclusión de logros y resultados en la experiencia laboral]()
+
+## V. Educación y certificaciones
+
+
+[A. Destacar la educación académica en el CV]()
+
+[B. La relevancia de las certificaciones en el campo de la ingeniería de software]()
+
+[C. Cómo mencionar cursos y certificaciones relevantes en el CV]()
+
+## VI. Proyectos y contribuciones destacadas
+
+
+[A. Cómo resaltar proyectos relevantes en el CV]()
+
+[B. La importancia de mencionar contribuciones a proyectos de código abierto]()
+
+[C. Incluir enlaces a repositorios de código o sitios web personales]()
+
+## VII. Habilidades blandas relevantes
+
+
+[A. La importancia de las habilidades blandas en la ingeniería de software]()
+
+[B. Cómo destacar habilidades de comunicación, trabajo en equipo, y resolución de problemas en el CV]()
+
+[C. Ejemplos concretos de habilidades blandas en el contexto de la ingeniería de software[()
+
+## VIII. Conclusiones
+
+[A. Resumen de la importancia del CV para ingenieros de software]()
+
+## IX. Formato de CV
+
+[Formato de CV de Ángel González]()
