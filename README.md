@@ -7,4 +7,7 @@ Un curriculum es un compendio resumido y esquemático de la vida laboral y forma
 
 Puchol, L. (2004). *El libro del curriculum Vitae, tercera edición*, recogido de: https://books.google.es/books?hl=es&lr=&id=NE34gdaR6okC&oi=fnd&pg=PA1&dq=como+hacer+un+cv&ots=w4hIkSXabc&sig=HC95VXfXg0GRbNWni8gpnudwV48#v=onepage&q=como%20hacer%20un%20cv&f=false
 
-### [A. Contexto de la importancia del CV en el ámbito de la ingeniería de software] (https://github.com/AlbertGlz23/CV/blob/main/Introducci%C3%B3n/Contexto%20de%20la%20importancia%20del%20CV%20en%20el%20%C3%A1mbito%20de%20la%20ingenier%C3%ADa%20de%20software.md)
+[A. Contexto de la importancia del CV en el ámbito de la ingeniería de software](https://github.com/AlbertGlz23/CV/blob/main/Introducci%C3%B3n/Contexto%20de%20la%20importancia%20del%20CV%20en%20el%20%C3%A1mbito%20de%20la%20ingenier%C3%ADa%20de%20software.md)
+
+
+
