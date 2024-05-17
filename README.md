@@ -40,6 +40,7 @@ En el contexto de la ingeniería de software, las habilidades técnicas son el f
 
 ## IV. Experiencia laboral relevante
 
+La experiencia laboral relevante es crucial en el currículum vitae de un ingeniero de software. Es fundamental destacar los proyectos y responsabilidades relacionados con el ámbito de la ingeniería de software. Además, es recomendable incluir logros y resultados concretos para demostrar el impacto de tu trabajo. Al resaltar de manera efectiva tu experiencia laboral, podrás demostrar tu capacidad para abordar desafíos técnicos y tu contribución al éxito de proyectos anteriores. Esto permitirá a los reclutadores evaluar tu idoneidad para el puesto y resaltar tu experiencia en el desarrollo de software.
 
 [A. Cómo resaltar la experiencia laboral en el CV](https://github.com/AlbertGlz23/CV/blob/main/Experiencia%20laboral%20relevante/C%C3%B3mo%20resaltar%20la%20experiencia%20laboral%20en%20el%20CV.md)
 
@@ -49,6 +50,7 @@ En el contexto de la ingeniería de software, las habilidades técnicas son el f
 
 ## V. Educación y certificaciones
 
+La educación y las certificaciones son componentes esenciales en el currículum vitae de un ingeniero de software. Destacar tu formación académica relevante es fundamental para mostrar tu base sólida en los principios y fundamentos de la ingeniería de software. Además, mencionar las certificaciones en el campo demuestra tu compromiso con el aprendizaje continuo y tu dominio de habilidades específicas. Es importante resaltar las certificaciones reconocidas en la industria, ya que esto valida tu experiencia y conocimientos técnicos. Al destacar tu educación y certificaciones de manera efectiva, podrás demostrar tu capacidad para abordar desafíos técnicos y tu nivel de especialización en el campo de la ingeniería de software. Esto ayudará a los reclutadores a evaluar tu idoneidad para el puesto y resaltar tu preparación académica y profesional.
 
 [A. Destacar la educación académica en el CV](https://github.com/AlbertGlz23/CV/blob/main/Educaci%C3%B3n%20y%20certificaciones/Destacar%20la%20educaci%C3%B3n%20acad%C3%A9mica%20en%20el%20CV.md)
 
@@ -58,6 +60,7 @@ En el contexto de la ingeniería de software, las habilidades técnicas son el f
 
 ## VI. Proyectos y contribuciones destacadas
 
+Destacar los proyectos y contribuciones relevantes es esencial en el currículum vitae de un ingeniero de software. Es importante resaltar los proyectos en los que has participado y las contribuciones específicas que has realizado. Describe el alcance de los proyectos, tu rol y las tecnologías utilizadas. Además, destaca los logros y resultados alcanzados, como mejoras de rendimiento, implementación exitosa de nuevas funcionalidades o solución de problemas complejos. Esto demuestra tu capacidad para abordar desafíos técnicos y tu experiencia práctica en el desarrollo de software. Al resaltar tus proyectos y contribuciones destacadas de manera efectiva, podrás demostrar tu habilidad para entregar soluciones de calidad y tu capacidad para trabajar en equipo. Esto ayudará a los reclutadores a evaluar tu experiencia y a visualizar cómo puedes aportar valor a futuros proyectos y organizaciones.
 
 [A. Cómo resaltar proyectos relevantes en el CV](https://github.com/AlbertGlz23/CV/blob/main/Proyectos%20y%20contribuciones%20destacadas/C%C3%B3mo%20resaltar%20proyectos%20relevantes%20en%20el%20CV.md)
 
@@ -67,6 +70,7 @@ En el contexto de la ingeniería de software, las habilidades técnicas son el f
 
 ## VII. Habilidades blandas relevantes
 
+Incluir habilidades blandas relevantes en tu currículum vitae como ingeniero de software es igualmente importante. Además de tus habilidades técnicas, es fundamental resaltar tus habilidades blandas, ya que demuestran tu capacidad para trabajar en equipo, comunicarte eficientemente y resolver problemas de manera efectiva.
 
 [A. La importancia de las habilidades blandas en la ingeniería de software](https://github.com/AlbertGlz23/CV/blob/main/Habilidades%20blandas%20relevantes/La%20importancia%20de%20las%20habilidades%20blandas%20en%20la%20ingenier%C3%ADa%20de%20software.md)
 
