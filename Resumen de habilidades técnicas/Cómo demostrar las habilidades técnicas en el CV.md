@@ -16,7 +16,7 @@ Incluye las certificaciones relevantes que hayas obtenido, especialmente aquella
 Utilizar palabras de acción
 Mejora el impacto de tus habilidades técnicas utilizando palabras de acción para describir tus logros. Utiliza términos como "desarrollado/a", "implementado/a" u "optimizado/a" para mostrar tu competencia y experiencia práctica.
 
-1- **Utilizar una sección de habilidades**
+1. **Utilizar una sección de habilidades**
 Crea una sección dedicada en tu currículum vitae para mostrar tus habilidades técnicas. Organiza esta sección de manera efectiva, utilizando viñetas o columnas para que los reclutadores puedan escanear e identificar tus principales fortalezas.
 
 1. **Mostrar habilidades blandas**
